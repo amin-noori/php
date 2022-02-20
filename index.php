@@ -5,4 +5,4 @@ function greet($name, $color){
 greet('John', 'blue');
 greet('Jane', 'green');
 // arguments and parameters examples
-?>
+?> 
